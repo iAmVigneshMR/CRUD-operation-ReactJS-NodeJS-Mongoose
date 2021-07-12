@@ -1,0 +1,7 @@
+for frontend
+yarn add react-router-dom axios react-toastify moment react-moment bootstrap@4.6 jquery popper.js faker
+to strat : yarn start
+
+for backend
+yarn add mongoose express body-parser cors dotenv nodemon
+to strat : yarn nodemon

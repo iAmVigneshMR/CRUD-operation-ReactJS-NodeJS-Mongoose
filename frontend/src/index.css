@@ -1,0 +1,29 @@
+@import url("https://pro.fontawesome.com/releases/v5.10.0/css/all.css");
+
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+    /* overflow-x: hidden; */
+}
+
+body{
+    background: rgb(209, 209, 206)!important;
+}
+
+.card-body {
+    flex: 1 1 auto;
+    min-height: 1px;
+    padding: 1.25rem;
+    background: #fff;
+    justify-content: space-between;
+    margin: 6px;
+  }
+  
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    justify-content: space-between;
+  }
